@@ -1,1 +1,1 @@
-# cau_mAI_tutorial
+# cau_mAI
